@@ -1,21 +1,164 @@
-# 💫 About Me:
-Students of Muhammadiyah University of Riau, Ferry Ardiansyah, Pekanbaru city, software engineering, web developer, Front End, next.js, Css, PHP, Html, 
+<div align="center">
 
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=ferryhtml&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="ferryhtml profile banner" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ferryardnsyhh_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ferry Ardiansyah ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ferryardnsyhh_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@ferrydoang_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Velozz Gaming) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ferryardiansyahh04@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=plastic&logo=ubiquiti&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=FerryHtml&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=FerryHtml&theme=codeSTACKr&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=FerryHtml&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Frontend%20or%20full-stack%20engineer;Building%20with%20TypeScript%20%C2%B7%20HTML%20%C2%B7%20JavaScript;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FerryHtml&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=FerryHtml&icon=6&color=1)](https://visitcount.itsvg.in)
+<a href="https://github.com/ferryhtml"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/2_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="2 followers" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ferryhtml&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## ⚡ whoami
+
+```typescript
+const ferryhtml: Developer = {
+  name:      "ferryhtml",
+  role:      "Frontend or full-stack engineer",
+  location:  "Building from the open web",
+  currently: "building in public",
+  stack:     ["TypeScript", "HTML", "JavaScript", "CSS", "Swift", "Java"],
+  mantra:    "Make useful things, then make them delightful 🚀",
+};
+```
+
+> Frontend or full-stack engineer
+> 
+> **Collaborations welcome when they are meaningful 🤝**
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ferryhtml&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## ⚔️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript%2Chtml%2Cjavascript%2Ccss%2Cswift%2Cjava&perline=8&theme=dark" alt="Tech stack" />
+
+<br/><br/>
+
+**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
+
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&amp;labelColor=0d1117" alt="TypeScript" /> <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&amp;labelColor=0d1117" alt="HTML" /> <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&amp;labelColor=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;labelColor=0d1117" alt="CSS" /> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&amp;labelColor=0d1117" alt="Swift" /> <img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&amp;labelColor=0d1117" alt="Java" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ferryhtml&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🌌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**FerryHtml**
+
+A featured build from this profile.
+
+`Open source` · `0 stars`
+
+<a href="https://github.com/FerryHtml/FerryHtml"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**web-desa-lubuk-mas**
+
+A featured build from this profile.
+
+`TypeScript` · `0 stars`
+
+<a href="https://github.com/FerryHtml/web-desa-lubuk-mas"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**anivverserry_ayryy**
+
+A featured build from this profile.
+
+`Open source` · `0 stars`
+
+<a href="https://github.com/FerryHtml/anivverserry_ayryy"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**anivverserry_ayry**
+
+A featured build from this profile.
+
+`TypeScript` · `0 stars`
+
+<a href="https://github.com/FerryHtml/anivverserry_ayry"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More work samples</b> &nbsp;<i>(click to expand)</i></summary>
+
+<br/>
+
+- **hs-ponsel** — Featured work · <a href="https://github.com/FerryHtml/hs-ponsel"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **portofolio-ferry** — Featured work · <a href="https://github.com/FerryHtml/portofolio-ferry"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **airybloom.co** — Featured work · <a href="https://github.com/FerryHtml/airybloom.co"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **airy.bloom.co** — Featured work · <a href="https://github.com/FerryHtml/airy.bloom.co"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</details>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ferryhtml&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=ferryhtml&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
+
+<br/>
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=ferryhtml&theme=neon&style=aura" width="100%" alt="Contribution activity" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ferryhtml&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ferryhtml&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F213768012%3Fu%3D43cff2d09a91766681d4a51f8cd24eb7cc4c9b6e%26v%3D4" alt="ferryhtml heatmap visual" />
+</p>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ferryhtml&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🏆 Beyond the Code
+
+* 🧠 **Profile signal:** 24 contributions in the last year
+* 🚀 **Builder energy:** 16 public repositories
+* ⭐ **Community signal:** 0 stars across featured work
+* 🗣️ **Open to:** interesting collaborations and useful products
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ferryhtml&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+<div align="center">
+
+## 🤝 Let's Build Something Meaningful
+
+I build useful software and enjoy turning ambitious ideas into working products.
+
+<a href="https://github.com/ferryhtml"><img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Start a conversation" /></a>
+
+<br/><br/>
+
+***⭐ From [ferryhtml](https://github.com/ferryhtml) · built with code, AI & a little chaos 😈***
+
+</div>
